@@ -1,4 +1,1 @@
-python-telegram-bot==22.7
-cryptography==44.0.2
-python-dotenv==1.0.1
-pyaes==1.6.1
+
